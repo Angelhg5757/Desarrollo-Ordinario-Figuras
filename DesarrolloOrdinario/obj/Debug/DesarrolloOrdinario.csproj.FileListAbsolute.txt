@@ -1,0 +1,13 @@
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\bin\Debug\DesarrolloOrdinario.exe.config
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\bin\Debug\DesarrolloOrdinario.exe
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\bin\Debug\DesarrolloOrdinario.pdb
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.csproj.AssemblyReference.cache
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.csproj.SuggestedBindingRedirects.cache
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.areas.resources
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.Form1.resources
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.Properties.Resources.resources
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.csproj.GenerateResource.cache
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.csproj.CoreCompileInputs.cache
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.exe
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.pdb
+C:\Users\paste\source\repos\DesarrolloOrdinario\DesarrolloOrdinario\obj\Debug\DesarrolloOrdinario.volumenes.resources
