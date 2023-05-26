@@ -69,7 +69,7 @@ namespace DesarrolloOrdinario
                 // Comprueba si la respuesta es correcta
                 if (respuesta == areaTotal)
                 {
-                    MessageBox.Show("Respuesta correcta");
+                    MessageBox.Show("Respuesta correcta", "Correcto", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     label10.Text = "A = " + lado_1 + " x " + lado_1 + " = " + areaTotal;
                     label10.Visible = true;
                     contadorPreguntas--;

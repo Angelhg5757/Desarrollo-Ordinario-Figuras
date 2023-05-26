@@ -72,7 +72,7 @@ namespace DesarrolloOrdinario
                 // Comprueba si la respuesta es correcta
                 if (respuesta == volumenTotal)
                 {
-                    MessageBox.Show("Respuesta correcta");
+                    MessageBox.Show("Respuesta correcta", "Correcto", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     label10.Text = "V = " + lado_1 + " x " + lado_1 + " x " + lado_1 + " = " + volumenTotal;
                     label10.Visible = true;
                     contadorPreguntas--;
